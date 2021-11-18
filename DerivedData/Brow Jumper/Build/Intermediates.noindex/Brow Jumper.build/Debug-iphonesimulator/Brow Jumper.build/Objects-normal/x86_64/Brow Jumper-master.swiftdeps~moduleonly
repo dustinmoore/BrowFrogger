@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "3dc9dffefd81579195c9e563ca8935cc"
+build_time: [1579531689, 856592000]
+inputs:
+  "/Users/dustinmoore/Downloads/FaceRunStart/BrowJumper/Player.swift": [1579396905, 929939537]
+  "/Users/dustinmoore/Downloads/FaceRunStart/BrowJumper/GameScene.swift": [1579414918, 419847090]
+  "/Users/dustinmoore/Downloads/FaceRunStart/BrowJumper/MenuScene.swift": [1579293701, 542381711]
+  "/Users/dustinmoore/Downloads/FaceRunStart/BrowJumper/GameViewController.swift": [1579293540, 733171975]
+  "/Users/dustinmoore/Downloads/FaceRunStart/BrowJumper/AppDelegate.swift": [1529584454, 0]

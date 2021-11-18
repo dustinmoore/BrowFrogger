@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "e3e255f8a194d88af2b160c0cb1cf1fe"
+build_time: [1579286242, 3780000]
+inputs:
+  "/Users/dustinmoore/Downloads/FaceRunStart/FaceRun/Player.swift": [1579225845, 860116857]
+  "/Users/dustinmoore/Downloads/FaceRunStart/FaceRun/GameScene.swift": [1579286237, 984970114]
+  "/Users/dustinmoore/Downloads/FaceRunStart/FaceRun/GameViewController.swift": [1579228799, 206107749]
+  "/Users/dustinmoore/Downloads/FaceRunStart/FaceRun/AppDelegate.swift": [1529584454, 0]
